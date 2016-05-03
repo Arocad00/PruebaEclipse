@@ -12,3 +12,4 @@ disponible en etc: Run As> run configurations> pestaña classpath>
 Seleccionar User Entries > Advanced > Add folder > seleccionar la
 carpeta <etc>
 
+Link al repositorio: https://github.com/Arocad00/PruebaEclipse
